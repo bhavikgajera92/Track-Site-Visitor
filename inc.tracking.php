@@ -22,7 +22,7 @@
 			$ip =	$book->ip;
 			$isp =	$book->isp;
 			$city =	$book->region;
-			$country =	$book->countrycode;
+			$country = $book->countrycode;
 			$latt =	$book->latitude;
 			$long =	$book->longitude;		
 		}
